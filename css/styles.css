@@ -99,7 +99,7 @@ img {
     color: #2e2f42;
 }
 
-.header-item:hover, :focus {
+.header-item:hover, .header-item:focus {
     color: #404bbf;
 }
 
@@ -111,7 +111,7 @@ img {
 }
 
 
-.contact:hover, :focus {
+.contact:hover, .contact:focus {
     color: #404bbf;
 }
 
@@ -138,12 +138,10 @@ margin: 0 auto;
 }
 
 .button-header:hover {
-    color: #404BBF;
     background-color: #404BBF;
 }
 
 .button-header:focus {
-    color: #404BBF;
     background-color: #404BBF;
 }
 
